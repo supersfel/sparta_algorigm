@@ -14,3 +14,4 @@ class Dict:
 my_dict = Dict()
 my_dict.put("test",3)
 print(my_dict.get("test"))
+print('hi')
